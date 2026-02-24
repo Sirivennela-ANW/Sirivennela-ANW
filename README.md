@@ -59,12 +59,10 @@
 *   https://www.credly.com/badges/f65d314e-5803-4cff-9737-a2584496d465/public_url
      Microsoft Certified: Azure Fundamentals
 
-*   Certification of Completion : Git&Github
-    Certificate url:[Git&Github](ude.my/UC-d3fa665b-c188-4210-a71a-70847344511d)
+*  [Git&Github](ude.my/UC-d3fa665b-c188-4210-a71a-70847344511d)
     Issued by Udemy
 
-*   Certification of Completion : Udemy
-    100 Days of Code: The Complete Python Pro Bootcamp
-    Certificate url: [The Complete Python Pro Bootcamp](ude.my/UC-5807f880-89f2-471b-9c4d-6688)
+*  [The Complete Python Pro Bootcamp](ude.my/UC-5807f880-89f2-471b-9c4d-6688)
+   Isued by Udemy
 
 
