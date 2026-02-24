@@ -1,16 +1,28 @@
 ## Hi there 👋
+🖥️ Sirivennela Nimmakuri
+I'm a Software Engineer Trainee. I'm currently focused on building a solid foundation in both frontend and backend technologies. I enjoy collaborating with others and learning new tools that improve productivity and performance.
 
-<!--
-**Sirivennela-ANW/Sirivennela-ANW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
+🌍  Hi, I'm Sirivennela Nimmakuri
+✉️  Contact me at: sirivennelanimmakuri@gmail.com
+🧠  I'm currently learning Python
+🤝  Pronouns she/her
+🏐  I'm also a Kabaddi player
+🛠️ Skills
+Git Java Python C VS Code HTML5 React CSS3 Django
 
-Here are some ideas to get you started:
+📫 Let's Connect!
+LinkedIn
+GitHub
+Email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+📚 Education 🎓 Bachelor of Technology Data Science NRI Institute Of Technology Aagiripalli(2020–2024)
+
+🏅 Certifications
+
+https://www.credly.com/badges/f65d314e-5803-4cff-9737-a2584496d465/public_url
+
+Microsoft Certified: Azure Fundamentals Microsoft Certified: Azure Fundamentals Issued by Microsoft
+
 - ⚡ Fun fact: ...
 -->
