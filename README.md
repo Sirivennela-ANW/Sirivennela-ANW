@@ -1,19 +1,11 @@
-# 🖥️ Sirivennela Nimmakuri
----
-
-I'm a **Software Engineer Trainee**. I'm currently focused on building a solid foundation in both frontend and backend technologies. I enjoy collaborating with others and learning new tools that improve productivity and performance.
-
+# 👋 Hi, I'm  Sirivennela Nimmakuri
+🚀  Backend-Focused Software Engineer | Python Developer 
 ---
 
 ## 👋 About Me
 
-- 🌍  Hi, I'm **Sirivennela Nimmakuri**
-- ✉️  Contact me at: **Sirivennela.Nimmakuri@appnetwise.com**
-- 💻 Python Developer with 1 year of experience  
-- 🚀 Passionate about backend development & automation  
-- 📍 Based in India 
-- 🤝  **Pronouns** she/her
-- 🏐  I'm also a **Kabaddi player**
+  I am a passionate Python Full-Stack Developer with around 1 year of hands-on experience building scalable web applications and backend systems.
+  I continuously work on improving my skills in API design, authentication systems, automation, and cloud-integrated applications.
 
 ---
 
@@ -43,26 +35,23 @@ I'm a **Software Engineer Trainee**. I'm currently focused on building a solid f
 ---
 
 📚 Education
-🎓 Bachelor of Technology Data Science
-NRI Institute Of Technology Aagiripalli(2020–2024)
+🎓 Bachelor of Technology  Data Science
+    NRI Institute Of Technology Aagiripalli
+    (2020–2024)
 
 ---
 
 🏅 Certifications
 
-https://www.credly.com/badges/f65d314e-5803-4cff-9737-a2584496d465/public_url
- 
- Microsoft Certified: Azure Fundamentals
-Microsoft Certified: Azure Fundamentals
-Issued by Microsoft
+*   https://www.credly.com/badges/f65d314e-5803-4cff-9737-a2584496d465/public_url
+     Microsoft Certified: Azure Fundamentals
 
-Certification of Completion : Git&Github
-Certificate url:[Git&Github](ude.my/UC-d3fa665b-c188-4210-a71a-70847344511d)
-Issued by Udemy
+*   Certification of Completion : Git&Github
+    Certificate url:[Git&Github](ude.my/UC-d3fa665b-c188-4210-a71a-70847344511d)
+    Issued by Udemy
 
-
-Certification of Completion : Udemy
-100 Days of Code: The Complete Python Pro Bootcamp
-Certificate url: [The Complete Python Pro Bootcamp](ude.my/UC-5807f880-89f2-471b-9c4d-6688)
+*   Certification of Completion : Udemy
+    100 Days of Code: The Complete Python Pro Bootcamp
+    Certificate url: [The Complete Python Pro Bootcamp](ude.my/UC-5807f880-89f2-471b-9c4d-6688)
 
 
